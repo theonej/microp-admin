@@ -1,0 +1,30 @@
+{
+  "name": "microp-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theonej/microp-admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theonej/microp-admin/issues"
+  },
+  "homepage": "https://github.com/theonej/microp-admin#readme",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "next": "^9.3.4",
+    "node-fetch": "^2.6.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "sharp": "^0.25.2"
+  }
+}
